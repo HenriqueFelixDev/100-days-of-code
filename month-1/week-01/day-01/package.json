@@ -1,0 +1,15 @@
+{
+  "name": "day-1-convert-age-to-days",
+  "version": "1.0.0",
+  "description": "Create a function that takes the age and return the age in days.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
