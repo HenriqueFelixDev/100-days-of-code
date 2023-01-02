@@ -1,3 +1,6 @@
+[![en Challenge](https://img.shields.io/badge/-en-blue)](https://github.com/HenriqueFelixDev/100-days-of-code/tree/new-challenges/month-1/week-01/day-02/README.md)
+[![pt-BR Challenge](https://img.shields.io/badge/-pt--BR-brightgreen)](https://github.com/HenriqueFelixDev/100-days-of-code/tree/new-challenges/month-1/week-01/day-02/README_pt-BR.md)
+
 ## Day 2 - Finding Nemo
 
 You're given a string of words. You need to find the word "Nemo", and return a string like this: `I found Nemo at [the order of the word you find nemo]!`.
