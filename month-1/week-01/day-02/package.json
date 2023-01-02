@@ -1,0 +1,15 @@
+{
+  "name": "day-02",
+  "version": "1.0.0",
+  "description": "100-days-of-code challenge day 02: Find the word Nemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
