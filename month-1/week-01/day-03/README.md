@@ -34,7 +34,7 @@ Given a BBQ grill, write a function that returns `[# vegetarian skewers, # non-v
   "--o---",
   "-o-----o---x--",
   "--o---o-----"
-) ➞ [3, 2]
+] ➞ [3, 2]
 ```
 
 ---
