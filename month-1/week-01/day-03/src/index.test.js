@@ -64,3 +64,12 @@ test('deve retornar [5, 0]', () => {
 
   expect(getSkewersCount(grill)).toEqual([5, 0]);
 });
+
+test('deve retornar [0, 1]', () => {
+  const grill = [
+    '---------',
+    '-xx---x-x-',
+  ];
+
+  expect(getSkewersCount(grill)).toEqual([0, 1]);
+});
