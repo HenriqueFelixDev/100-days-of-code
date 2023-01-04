@@ -1,9 +1,7 @@
 const getProgressDays = (runMilles) => {
   let progressDays = 0;
 
-  for(let i = 0; i < runMilles.length; i++) {
-    if (i === 0) continue;
-
+  for(let i = 1; i < runMilles.length; i++) {
     if (runMilles[i] > runMilles[i-1]) {
       progressDays++;
     }
