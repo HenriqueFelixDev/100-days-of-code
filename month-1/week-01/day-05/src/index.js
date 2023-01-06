@@ -14,6 +14,4 @@ const sockPairs = (socks) => {
     }, 0);
 };
 
-console.log(sockPairs('AAAAAAAA'))
-
 module.exports = { sockPairs };
