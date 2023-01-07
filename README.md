@@ -1,5 +1,5 @@
 
-![Challenge Progress](https://progress-bar.dev/5/?title=completed&width=150)
+![Challenge Progress](https://progress-bar.dev/6/?title=completed&width=150)
 # 100-days-of-code
 Check out the [IAPOLINARIO/100-days-of-code](https://github.com/IAPOLINARIO/100-days-of-code) repository.
 
