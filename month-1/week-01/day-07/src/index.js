@@ -1,7 +1,7 @@
 const mergeSortedArrays = (arr1, arr2) => {
   return [...arr1, ...arr2]
-    .sort((a, b) => a - b)
-    .filter(num => num !== 0);
+    .filter(num => num !== 0)
+    .sort((a, b) => a - b);
 };
 
 module.exports = { mergeSortedArrays };
